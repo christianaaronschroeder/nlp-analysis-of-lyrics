@@ -1,0 +1,33 @@
+Manifest
+
+Christian Schroeder (dbn5eu@virginia.edu)
+DS 5001: Exploratory Text Analytics
+15 December 2021
+
+All Data: https://virginia.box.com/s/l3rvj0zaxolmek9wwfe6dut38ya3b2bc
+
+Source Files: https://virginia.box.com/s/82vw6o48ycz2g5mwu7ctxigryh0jl1g2
+
+billboard_nominees.csv
+- Provenance: Billboard Music Award for Top Rap Artist
+- Link: https://en.wikipedia.org/wiki/Billboard_Music_Award_for_Top_Rap_Artist
+- Description: Wikipedia page for the Billboard music award for Top Rap Artist. The data was not available for download, so I copied it from this page.
+- Format: CSV
+
+most_lyrical_artists_2019.csv
+- Provenance: The Largest Vocabulary in Hip Hop, by Matt Daniels
+- Link: https://pudding.cool/projects/vocabulary/index.html
+- Description: A project quantifying unique rap lyrics, data provided through google sheets link
+- Format: CSV
+
+salex_nrc.csv
+- Provenance: NRC Emotion Lexicon
+- Link: downloaded from class resources
+- Description: Lexicon of terms and the emotional connotations provided in class
+- Format: CSV
+
+the_grammy_awards.csv
+- Provenance: Kaggle Project Page: The Grammy Arwards Analysis
+- Link: https://www.kaggle.com/jagannathrk/the-grammy-arwards-analysis
+- Description: All grammy awards and their winners by year
+- Format: CSV
